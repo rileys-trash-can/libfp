@@ -1,3 +1,7 @@
+## !!! MIRGATION NOTICE !!!
+
+this project has been migrated to [codeberg](https://codeberg.org/rilendorf/libfp)
+
 # lipFP
 
 This is LipFP, a set of fingerprint utilities. To be honest, I'm not entirely sure if it's for a fingerprint interprinter language or an intermec printer language, and I don't care anymore. So, I'm referring to it as "fingerprint" because that's what the screen of the printer says xD
